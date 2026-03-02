@@ -31,4 +31,5 @@ Jupyter Notebook
 data/ → Dataset
 notebooks/ → Analysis notebook
 reports/ → Final written report
-dashboard/ → Visual summary outputs
+readme.md/ → Visual summary outputs
+requirements.txt
